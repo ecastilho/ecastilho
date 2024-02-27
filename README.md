@@ -1,11 +1,11 @@
 <h1 align="center">Olá Sou o Emerson Castilho</h1>
 <h3 align="center">DevOps / SRE</h3>
 
-- 🔭 Estou trabalhando atualmente em **Infraestrutura**
+- 🔭 Estou trabalhando atualmente como **SRE**
 
 - 🌱 atualmente estou estudando **Escola Alura - Formação Devops**
 
-- 📝Formação em andamento em **Internet da Coisas e Computação na Nuvem - Usjt.br**
+- 📝Formação em andamento em **IOT e Computação na Nuvem - Usjt.br**
 
 - 🤝 procuro colaborar com conhecimento em **Infraestrura, Microsoft**
 
